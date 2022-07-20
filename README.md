@@ -9,3 +9,5 @@ sudo apt-get update && sudo apt-get install python3-pip
 pip install -r requirements.txt
 
 screen -R deployment python3 app.py
+
+AWS deployment - Amazon EC2 => ec2-52-15-92-145.us-east-2.compute.amazonaws.com
