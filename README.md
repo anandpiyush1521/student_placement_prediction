@@ -1,4 +1,4 @@
-# student_placement_prediction
+# student_placement_prediction / ML-model-deployment
 
 winscp - with help of this we can upload our file on aws
 
